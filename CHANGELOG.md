@@ -1,3 +1,10 @@
+# [1.2.0](https://github.com/researchgate/react-structured-data/compare/v1.1.0...v1.2.0) (2020-09-23)
+
+
+### Features
+
+* export generic nodes for ad-hoc schema implementations ([16f4ef4](https://github.com/researchgate/react-structured-data/commit/16f4ef4))
+
 # [1.1.0](https://github.com/researchgate/react-structured-data/compare/v1.0.6...v1.1.0) (2019-08-27)
 
 
